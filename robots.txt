@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://06-hotel-shri-kawar-palace.rajnandgaonhotels.in/sitemap.xml
